@@ -73,7 +73,13 @@ Smart expense tracking and bill splitting platform.
 ## 📌 Featured Projects
 
 ### MintiMoney
-Expense tracking and bill splitting platform.
+
+A private expense management and bill-splitting product.
+
+Built with React Native, TypeScript, Firebase, Node.js,
+GCP Cloud Run and AI/LLM technologies.
+
+> Source code is private.
 
 ### ACME Salary Management
 Full-stack salary management application with automated testing.
